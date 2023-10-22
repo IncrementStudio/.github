@@ -1,4 +1,4 @@
-<h1 align="center">Приветствуем тебя в нашей студии по Minecraft разработке <b>IncrementStudio++</b> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Приветствуем тебя в нашей студии по Minecraft разработке <b>IncrementStudio++</b> <img src="https://github.com/IncrementStudio/.github/blob/main/profile/assets/logo_animated.svg" height="32"/></h1>
 
 ❓ Мы, IncrementStudio++ - высококвалифицированная опытная команда разработчиков в сфере Minecraft, специализирующаяся на создании уникальных, качественных и инновационных разработок: сборок и плагинов для различных тематик на любой игровой версии.
 
